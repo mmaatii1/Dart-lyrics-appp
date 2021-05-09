@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:interakcja_zal/pages/results_page/tracksresults.dart';
+import 'package:app/pages/results_page/tracksresults.dart';
 import '../../../app_icons.dart';
-import '../../../constants.dart';
+
 
 class Search extends StatelessWidget {
   @override

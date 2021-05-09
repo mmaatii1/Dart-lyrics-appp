@@ -1,6 +1,7 @@
+
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/routes.dart';
-import 'package:interakcja_zal/theme.dart';
+import 'package:app/routes.dart';
+import 'package:app/theme.dart';
 
 void main() {
   runApp(MyApp());

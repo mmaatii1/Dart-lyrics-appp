@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/models/artistsinfo.dart';
-import 'package:interakcja_zal/pages/albums_page/albums.dart';
+import 'package:app/models/artistsinfo.dart';
+import 'package:app/pages/albums_page/albums.dart';
 import '../../../constants.dart';
 
 class Top6 extends StatelessWidget {

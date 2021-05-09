@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/pages/albums_page/components/full_list_section.dart';
-import 'package:interakcja_zal/pages/albums_page/components/top_section.dart';
-import 'package:interakcja_zal/pages/albums_page/components/upper_bar.dart';
-import 'package:interakcja_zal/models/albums.dart';
-import 'package:interakcja_zal/services/api-manager.dart';
+import 'package:app/pages/albums_page/components/full_list_section.dart';
+import 'package:app/pages/albums_page/components/top_section.dart';
+import 'package:app/pages/albums_page/components/upper_bar.dart';
+import 'package:app/models/albums.dart';
+import 'package:app/services/api-manager.dart';
 
 class Pizda extends StatefulWidget {
   final int artistId;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/models/trackorartist.dart';
-import 'package:interakcja_zal/pages/results_page/components/list_section.dart';
-import 'package:interakcja_zal/services/api-manager.dart';
+import 'package:app/models/trackorartist.dart';
+import 'package:app/pages/results_page/components/list_section.dart';
+import 'package:app/services/api-manager.dart';
 import 'components/upper_bar.dart';
 
 class Tracksresults extends StatefulWidget {

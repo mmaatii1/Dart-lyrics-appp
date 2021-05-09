@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/pages/home_page/components/search.dart';
-import 'package:interakcja_zal/services/api-manager.dart';
-import 'package:interakcja_zal/models/artistsinfo.dart';
+import 'package:app/pages/home_page/components/search.dart';
+import 'package:app/services/api-manager.dart';
+import 'package:app/models/artistsinfo.dart';
 import 'components/logo.dart';
 import 'components/tekst_glowny.dart';
 import 'components/top6_list.dart';

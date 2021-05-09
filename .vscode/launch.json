@@ -5,8 +5,8 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "interakcja_zal",
-            "cwd": "interakcja_zal",
+            "name": "App",
+            "cwd": "App",
             "request": "launch",
             "type": "dart"
         }

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/models/albums.dart';
+import 'package:app/models/albums.dart';
 
 import '../../../constants.dart';
 

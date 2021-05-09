@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/models/trackorartist.dart';
-import 'package:interakcja_zal/pages/results_page/components/upper_bar.dart';
+import 'package:app/models/trackorartist.dart';
+import 'package:app/pages/results_page/components/upper_bar.dart';
 import '../../../constants.dart';
 
 class ListSection extends StatelessWidget {
@@ -27,7 +27,7 @@ class ListSection extends StatelessWidget {
           ),
         ),
       ),
-      height: size.height * 0.85,
+      height: size.height * 0.80,
       child: FutureBuilder<Trackks>(
         future: _trackss,
         builder: (context, snapshot) {

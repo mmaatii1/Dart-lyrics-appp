@@ -1,14 +1,14 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:interakcja_zal/models/albums.dart';
+import 'package:app/models/albums.dart';
 
-import 'package:interakcja_zal/models/artistsinfo.dart';
-import 'package:interakcja_zal/models/lyrics.dart';
-import 'package:interakcja_zal/models/trackorartist.dart';
+import 'package:app/models/artistsinfo.dart';
+import 'package:app/models/lyrics.dart';
+import 'package:app/models/trackorartist.dart';
 
 class API_Manager {
-  String key = "yourapikey";
+  String key = "eb7a33bd10b9eac57fe5fa0905684492";
   Future<Art> getArtists() async {
     var client = http.Client();
     var artistList;

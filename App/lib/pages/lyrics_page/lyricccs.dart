@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/constants.dart';
-import 'package:interakcja_zal/models/lyrics.dart';
-import 'package:interakcja_zal/pages/home_page/body1.dart';
-import 'package:interakcja_zal/pages/lyrics_page/arrow.dart';
-import 'package:interakcja_zal/pages/lyrics_page/logo.dart';
-import 'package:interakcja_zal/services/api-manager.dart';
+import 'package:app/constants.dart';
+import 'package:app/models/lyrics.dart';
+import 'package:app/pages/home_page/body1.dart';
+import 'package:app/pages/lyrics_page/arrow.dart';
+import 'package:app/pages/lyrics_page/logo.dart';
+import 'package:app/services/api-manager.dart';
 
 class Lyricsresult extends StatefulWidget {
   final int lyricsID;
@@ -54,7 +54,7 @@ class _LyricsresultState extends State<Lyricsresult> {
                   ),
                 ),
                 Container(
-                  width: size.width * 0.91,
+                  width: size.width * 0.90,
                   child: Logo(),
                   alignment: Alignment.center,
                 ),
@@ -67,7 +67,7 @@ class _LyricsresultState extends State<Lyricsresult> {
                 top: BorderSide(color: kSecondaryColor, width: 2.0),
               ),
             ),
-            height: size.height * 0.9,
+            height: size.height * 0.89,
             child: FutureBuilder<Lyrics>(
               future: _lyricss,
               builder: (context, snapshot) {

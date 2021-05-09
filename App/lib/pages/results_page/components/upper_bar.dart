@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/models/trackorartist.dart';
-import 'package:interakcja_zal/pages/home_page/body1.dart';
-import 'package:interakcja_zal/pages/lyrics_page/lyricccs.dart';
-import 'package:interakcja_zal/pages/results_page/components/arrow.dart';
-import 'package:interakcja_zal/pages/results_page/components/logo.dart';
+import 'package:app/models/trackorartist.dart';
+import 'package:app/pages/home_page/body1.dart';
+import 'package:app/pages/lyrics_page/lyricccs.dart';
+import 'package:app/pages/results_page/components/arrow.dart';
+import 'package:app/pages/results_page/components/logo.dart';
 
 
 import '../../../constants.dart';

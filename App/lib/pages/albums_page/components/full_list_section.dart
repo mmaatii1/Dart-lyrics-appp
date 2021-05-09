@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:interakcja_zal/constants.dart';
-import 'package:interakcja_zal/models/albums.dart';
-import 'package:interakcja_zal/pages/albums_page/components/list_section.dart';
+import 'package:app/constants.dart';
+import 'package:app/models/albums.dart';
+import 'package:app/pages/albums_page/components/list_section.dart';
 import 'package:intl/intl.dart';
 
 class FullListSection extends StatelessWidget {

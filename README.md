@@ -14,6 +14,8 @@ It's one of our first apps, so it's no perfect - obviously. We are not advanced 
 and not perfect design. Despite of that, i think we did good work. There are four full decoded API calls from what we used about only 20% of it's contents.
 So if you would do something more with this project, go ahead!
 ## Screenshots
+Home screen: 
+![Alt text](/Screenshot_1.png "Homescreen")
 ## Technologies
 * Flutter version: 2.0.3
 * Dart version: 2.12.2

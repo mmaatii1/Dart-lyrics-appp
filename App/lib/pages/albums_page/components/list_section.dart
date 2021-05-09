@@ -39,7 +39,7 @@ class ListSection extends StatelessWidget {
         children: <Widget>[
           SizedBox(
             width: 100,
-            child: Text("Data wydania: " + "\n" + datastring,
+            child: Text("Release date: " + "\n" + datastring,
                 style: TextStyle(
                     color: Colors.white.withOpacity(0.59),
                     fontFamily: 'Poppins',

@@ -1,5 +1,5 @@
 ## Dart Lyrics app - Lirs
-This app has been made for credit interakcje czlowiek-komputer in our coolage. It's simple app for searching lyrics and to get to know some popular artists.
+This app has been made for credit interakcje czlowiek-komputer in our college. It's simple app for searching lyrics and to get to know some popular artists.
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -12,7 +12,7 @@ This app has been made for credit interakcje czlowiek-komputer in our coolage. I
 ## General info
 It's one of our first apps, so it's no perfect - obviously. We are not advanced in various technologies and designing, therefore you can see some bugs
 and not perfect design. Despite of that, i think we did good work. There are four full decoded API calls from what we used about only 20% of it's contents.
-So if you would do something more with this project, go ahead!
+So if you would like to do something more with this project, go ahead!
 ## Screenshots
 | Home Page  | Albums Page |
 | ------------- | ------------- |

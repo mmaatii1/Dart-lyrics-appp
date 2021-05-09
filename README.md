@@ -15,7 +15,7 @@ and not perfect design. Despite of that, i think we did good work. There are fou
 So if you would do something more with this project, go ahead!
 ## Screenshots
 Home screen: 
-![Alt text](/Screenshot_1.png "Homescreen")
+<img src = "/Screenshot_1.png" alt = "Homescreen" height = 500 width = 300>
 ## Technologies
 * Flutter version: 2.0.3
 * Dart version: 2.12.2
